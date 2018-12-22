@@ -1,0 +1,3 @@
+# flask-chat-socketio-app
+Just a simple flask chat app using web sockets (SocketIO) deployed on heroku...
+NEEDS REWORK
